@@ -1,9 +1,14 @@
-# App Image
+This is a search image application which uses unsplash api to fetch searched images.
+
+## Live Demo
+https://search-pictures-alpha.vercel.app/
+
+## Preview
 
 ![AppImg](https://github.com/user-attachments/assets/1f98236b-6978-4468-8ea2-a0b9930bda80)
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
